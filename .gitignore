@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+.vs/*
+_UpgradeReport_Files/*
+Backup/*
+CMUgraphics/*
+Debug/*
+GUI/*
